@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-326
-description: "Create XXD Panel 326 raster artwork: a faithful photograph paired with one raw totem in dry brush and chalk, incomplete on purpose, hanging in quiet space. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-326 or asks for this 粗拙图腾 style."
+description: "XXD Panel 326｜Raw Totem: keeps the photo and condenses its subject into one small, restrained raw totem suspended in empty space, like an artist's seal or private sign — a minimal outline with slight distortion, incomplete structure and imprecise proportions, plus at most a geometric frame, a halo circle, short strokes, dots or non-semantic marks. Imperfect ink lines, dry-brush marks and chalk texture with rough edges, paper grain and uneven ink; a quiet low-saturation palette of bone white, warm beige, ink black, grey rose, misty pink, deep green and soft red; and one short word or tiny note. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-326 or asks for a dry-brush chalk totem, raw minimal emblem or hand-marked personal icon from a photo."
 ---
 
 # XXD Panel 326

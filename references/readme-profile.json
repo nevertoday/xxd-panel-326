@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 326｜Raw Totem: keeps the photo and condenses its subject into one small, restrained raw totem suspended in empty space, like an artist's seal or private sign — a minimal outline with slight distortion, incomplete structure and imprecise proportions, plus at most a geometric frame, a halo circle, short strokes, dots or non-semantic marks. Imperfect ink lines, dry-brush marks and chalk texture with rough edges, paper grain and uneven ink; a quiet low-saturation palette of bone white, warm beige, ink black, grey rose, misty pink, deep green and soft red; and one short word or tiny note. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-326 or asks for a dry-brush chalk totem, raw minimal emblem or hand-marked personal icon from a photo.",
+  "short_description": "粗拙图腾：把照片主体收成干刷粉笔画出、带一圈光环短线、悬在空白里的克制粗拙图腾",
+  "zh-CN": {
+    "name": "粗拙图腾",
+    "tagline": "保留原照片，把主体收成干刷和粉笔做成、悬在空白里的克制粗拙图腾。",
+    "look": "照片保持原样，设计部分只留主体的精神核心：轮廓极简，允许轻微变形、结构不完整、比例不准，带一点原始感和人格感。线条是不均匀的墨线、干刷笔触和粉笔质感，边缘略粗糙，纸纹和墨迹不匀都看得见。旁边最多加一个几何框、一圈光环、几道短线或几个点状记号，用来加强图腾感，不变成装饰。颜色安静、低饱和：骨白、暖米、墨黑、灰玫瑰、雾粉、深绿、柔红。符号小，像被收藏的艺术标记悬在大片空白中；文字只有一个短词或一行极简注释。",
+    "traits": ["克制粗拙", "图腾象征", "干刷粉笔", "光环短线", "悬置留白"],
+    "good": [
+      "有存在感、能被看成图腾的主体：一只站着的鸟、一棵孤树、一个回头的人、一头牛",
+      "安静而有张力的照片：黑夜里的一盏灯、站在海边的人、石头上的猫",
+      "想做成艺术家签名章、个人标志、唱片封面小图形的照片"
+    ],
+    "poor": [
+      "需要准确比例或完整物体的照片：产品、建筑立面、证件照",
+      "想要整洁精致、颜色丰富或甜美可爱的结果",
+      "想要完美数字 Logo、光滑矢量、UI 图标或 3D 的需求"
+    ]
+  },
+  "en": {
+    "name": "Raw Totem",
+    "tagline": "Keeps your photo and hangs one restrained, raw totem made with dry brush and chalk in empty space.",
+    "look": "The photo stays as it is. The design keeps only the subject's spiritual core: a minimal outline that may be slightly distorted, structurally incomplete and imprecise in proportion, with a raw, personal feel. Lines are uneven ink, dry-brush strokes and chalk texture with roughish edges, and paper grain and patchy ink stay visible. At most a geometric frame, a halo circle, a few short strokes or dot marks are added to strengthen the totem feel, never as decoration. Colours are quiet and muted: bone white, warm beige, ink black, grey rose, misty pink, deep green and soft red. The symbol is small, suspended in wide empty space like a collected artist's mark; text is one short word or one minimal note.",
+    "traits": ["Restrained rawness", "Totemic symbol", "Dry brush and chalk", "Halo and short strokes", "Suspended whitespace"],
+    "good": [
+      "Subjects with presence that can read as a totem: a standing bird, a lone tree, someone looking back, an ox",
+      "Quiet photos with tension: one light in the dark, a person standing by the sea, a cat on a rock",
+      "Photos you want as an artist's signature stamp, a personal mark or a small graphic for a record cover"
+    ],
+    "poor": [
+      "Photos that need exact proportions or the whole object: products, building facades, ID photos",
+      "Wanting a neat, polished, colourful or sweet result",
+      "Requests for a perfect digital logo, glossy vector, UI icon or 3D"
+    ]
+  },
+  "ja": {
+    "name": "粗削りトーテム",
+    "tagline": "写真はそのままに、ドライブラシとチョークで描いた控えめで粗削りなトーテムを余白に浮かべます。",
+    "look": "写真はそのまま残し、デザイン側は主役の精神的な核だけを残します。輪郭はごく簡潔で、少しの歪み、欠けた構造、不正確な比率も許され、原始的な感触と人柄がにじみます。線はむらのある墨線、ドライブラシの筆跡、チョークの質感で、縁はやや粗く、紙の粒子と墨のむらも見えます。トーテムらしさを強めるために、幾何学の枠、光輪のような円、短い線、点の印を少し添えることはあっても、装飾にはしません。色は静かで彩度が低く、骨のような白、温かなベージュ、墨の黒、灰みのローズ、霧のようなピンク、深い緑、柔らかな赤です。シンボルは小さく、収集された作家の印のように広い余白に浮かび、文字は短い一語かごく簡潔な注記だけです。",
+    "traits": ["控えめな粗さ", "トーテムの象徴", "ドライブラシとチョーク", "光輪と短い線", "浮かぶ余白"],
+    "good": [
+      "存在感がありトーテムとして読める主役：立っている鳥、一本の木、振り返る人、牛",
+      "静かで張りつめた写真：闇の中のひとつの明かり、海辺に立つ人、岩の上の猫",
+      "作家のサイン印、個人のマーク、レコードジャケットの小さな図にしたい写真"
+    ],
+    "poor": [
+      "正確な比率や物の全体が必要な写真：商品、建物の立面、証明写真",
+      "整って精緻、色が多い、甘くかわいい仕上がりを求める場合",
+      "完璧なデジタルロゴ、なめらかなベクター、UI アイコン、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "거친 토템",
+    "tagline": "원래 사진은 그대로 두고, 마른 붓과 분필로 만든 절제된 거친 토템을 여백에 띄웁니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽은 주인공의 정신적 핵심만 남깁니다. 윤곽은 아주 간결하고, 약간의 변형, 불완전한 구조, 정확하지 않은 비율도 허용되어 원초적인 느낌과 개성이 배어납니다. 선은 고르지 않은 먹선, 마른 붓 자국, 분필 질감이며 가장자리는 조금 거칠고 종이 결과 얼룩진 먹이 보입니다. 토템 느낌을 살리려고 기하 테두리, 후광 같은 원, 짧은 선, 점 표식을 조금 더할 수는 있지만 장식이 되지는 않습니다. 색은 조용하고 채도가 낮게 뼈 같은 흰색, 따뜻한 베이지, 먹빛 검정, 회색빛 장미색, 안개 낀 분홍, 짙은 초록, 부드러운 빨강을 씁니다. 심벌은 작게, 수집된 작가의 표식처럼 넓은 여백에 떠 있고, 글자는 짧은 단어 하나나 아주 간결한 주석 한 줄뿐입니다.",
+    "traits": ["절제된 거침", "토템 상징", "마른 붓과 분필", "후광과 짧은 선", "떠 있는 여백"],
+    "good": [
+      "존재감이 있어 토템처럼 읽히는 주인공: 서 있는 새, 홀로 선 나무, 뒤돌아보는 사람, 소",
+      "조용하지만 긴장감 있는 사진: 어둠 속 불빛 하나, 바닷가에 선 사람, 바위 위 고양이",
+      "작가 서명 도장, 개인 마크, 음반 표지 속 작은 그래픽으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "정확한 비율이나 물체 전체가 필요한 사진: 제품, 건물 입면, 증명사진",
+      "깔끔하고 정교하거나 색이 풍부하거나 달콤하고 귀여운 결과를 원하는 경우",
+      "완벽한 디지털 로고, 매끈한 벡터, UI 아이콘, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "طوطم خام",
+    "tagline": "يحتفظ بصورتك ويعلّق في الفراغ طوطماً خاماً مقتصداً مرسوماً بالفرشاة الجافة والطباشير.",
+    "look": "تبقى الصورة كما هي، ولا يحتفظ التصميم إلا بالجوهر الروحي للعنصر: خط خارجي مختزل يجوز فيه تشوّه خفيف وبنية ناقصة ونِسب غير دقيقة، فيه إحساس بدائي وشخصية. الخطوط حبر غير متساوٍ وضربات فرشاة جافة وملمس طباشيري، بحواف خشنة قليلاً، مع ظهور حبيبات الورق وتبقّع الحبر. يُضاف في أقصى حد إطار هندسي أو هالة دائرية أو بضعة خطوط قصيرة أو علامات نقطية لتقوية الطابع الطوطمي، لا للزخرفة. الألوان هادئة خافتة: أبيض عظمي وبيج دافئ وأسود حبري ووردي رمادي ووردي ضبابي وأخضر داكن وأحمر ناعم. الرمز صغير معلّق في فراغ واسع كعلامة فنان من مجموعة مقتنيات، والنص كلمة قصيرة واحدة أو ملاحظة مقتضبة.",
+    "traits": ["خشونة مقتصدة", "رمز طوطمي", "فرشاة جافة وطباشير", "هالة وخطوط قصيرة", "فراغ معلّق"],
+    "good": [
+      "عناصر لها حضور ويمكن قراءتها طوطماً: طائر واقف، شجرة وحيدة، شخص يلتفت، ثور",
+      "صور هادئة فيها توتر: ضوء واحد في الظلام، شخص واقف على شاطئ البحر، قطة على صخرة",
+      "صور تريدها ختم توقيع لفنان أو علامةً شخصية أو رسماً صغيراً لغلاف أسطوانة"
+    ],
+    "poor": [
+      "صور تحتاج إلى نِسب دقيقة أو إلى الشيء كاملاً: المنتجات، واجهات المباني، صور الهوية",
+      "الرغبة في نتيجة مرتّبة مصقولة أو كثيرة الألوان أو حلوة لطيفة",
+      "طلب شعار رقمي مثالي أو رسم متجهي لامع أو أيقونة واجهة أو مجسّم"
+    ]
+  }
+}
